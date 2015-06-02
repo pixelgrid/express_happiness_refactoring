@@ -1,0 +1,51 @@
+{
+  "name": "express-happiness",
+  "version": "0.7.2",
+  "description": "Express framework wrapper",
+  "main": "expressHappiness.js",
+  "dependencies": {
+    "validator": "^3.34.0",
+    "colors": "^1.0.3",
+    "moment": "^2.9.0",
+    "underscore": "^1.8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andreas-trad/express-happiness.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": {
+    "name": "Andreas Trantidis",
+    "email": "atrantidis@gmail.com"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/andreas-trad/express-happiness/issues"
+  },
+  "gitHead": "a2bc613449976e2a09950db12f096aa4fbca375d",
+  "homepage": "https://github.com/andreas-trad/express-happiness",
+  "_id": "express-happiness@0.7.2",
+  "scripts": {},
+  "_shasum": "22bcad9f276fffcbfce45dfcab08820a05fbf2f2",
+  "_from": "express-happiness@*",
+  "_npmVersion": "2.7.4",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "name": "atrantidis",
+    "email": "atrantidis@gmail.com"
+  },
+  "dist": {
+    "shasum": "22bcad9f276fffcbfce45dfcab08820a05fbf2f2",
+    "tarball": "http://registry.npmjs.org/express-happiness/-/express-happiness-0.7.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "atrantidis",
+      "email": "atrantidis@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/express-happiness/-/express-happiness-0.7.2.tgz"
+}
